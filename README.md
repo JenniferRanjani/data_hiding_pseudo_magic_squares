@@ -6,4 +6,4 @@ J. Jennifer Ranjani, "Data hiding using pseudo magic squares for embedding high 
 
 # Demo is available in 
 
-[magic_demo.m](data_hiding_pseudo_magic_squares/magic_demo.m )
+[magic_demo.m](magic_demo.m )
