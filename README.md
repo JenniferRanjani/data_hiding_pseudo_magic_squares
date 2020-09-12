@@ -4,6 +4,6 @@ If you use this repository in your research, kindly cite the following [paper](h
  
 J. Jennifer Ranjani, "Data hiding using pseudo magic squares for embedding high payload in digital images", Multimedia Tools and Applications, vol. 76, pp. 3715–3729, 2017.
 
-# Demo is available in 
+# Demo File 
 
 [magic_demo.m](magic_demo.m )
